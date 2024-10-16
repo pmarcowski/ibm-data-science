@@ -6,6 +6,7 @@ This repository contains my personal coursework and exercises for the IBM Data S
 
 - `notebooks/`: Jupyter notebooks with course exercises and projects
 - `images/`: Screenshots and visualizations from coursework
+- `scripts/`: Python scripts for Dash applications
 
 ## Note
 
